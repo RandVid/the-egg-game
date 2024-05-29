@@ -18,13 +18,7 @@ Though the game is really short, it features:
 ### The built of the game can be found on [GameJolt](https://gamejolt.com/games/theegg/622525).
 ### However, if you need the unbuild project installed, you should follow these steps:
 
-### 1. Clone the Repository
-
-Open your terminal or command prompt and navigate to the directory where you want to clone the project. Then run the following command:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
+### 1. Clone or Download the Repository
 
 ### 2. Open the Project with Unity Hub
 
