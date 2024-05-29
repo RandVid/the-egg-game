@@ -65,6 +65,3 @@ Since the `.gitignore` for Unity might exclude some large files or auto-generate
 
 ### Falling Cutscene:
 ![cutscene](Screenshots/r5.png)
-
-## Teaser
-https://www.youtube.com/watch?v=THjh54CVDWw
