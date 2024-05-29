@@ -2,7 +2,7 @@
 
 ## Description
 
-In collaboration with my friends, this game was developed in 2021 as our final project for a programming course. It tells the captivating story of an (un)usual egg that, against all odds, survives a fall from its nest. Now, the egg embarks on an adventurous journey to explore the world. The game draws inspiration from the imaginative music video [Exyl - Egg](https://www.youtube.com/watch?v=114rxHa0qzo)
+In collaboration with my friend [Pasha](https://github.com/ZizTo), this game was developed in 2021 as our final project for a programming course. It tells the captivating story of an (un)usual egg that, against all odds, survives a fall from its nest. Now, the egg embarks on an adventurous journey to explore the world. The game draws inspiration from the imaginative music video [Exyl - Egg](https://www.youtube.com/watch?v=114rxHa0qzo)
 
 ## Features
 
